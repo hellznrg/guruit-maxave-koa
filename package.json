@@ -6,7 +6,8 @@
     "@koa/router": "^10.0.0",
     "koa": "^2.13.1",
     "koa-logger": "^3.2.1",
-    "koa-pino-logger": "^3.0.0"
+    "koa-pino-logger": "^3.0.0",
+    "axios": ""
   },
   "scripts": {
     "start": "node index.js"
