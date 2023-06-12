@@ -12,6 +12,10 @@ const helloWorld = ctx => {
   ctx.body = 'Hello World!!!';
 };
 
+const scrape = ctx => {
+  
+}
+
 router.get('/', helloWorld);
 
 app.use(router.routes());
